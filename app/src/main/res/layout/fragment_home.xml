@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="56dp"
+    android:weightSum="2">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardWorld"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?attr/selectableItemBackground"
+        android:layout_margin="3dp"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:textSize="@dimen/text_size_card_title"
+                android:layout_marginBottom="@dimen/margin_small"
+                android:layout_gravity="center"
+                android:text="Lịch sử thế giới"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:layout_gravity="center"
+                android:src="@drawable/ic_world"
+                android:layout_width="@dimen/image_card_size"
+                android:layout_height="@dimen/image_card_size" />
+            <TextView
+                android:text="(1945-2000)"
+                android:textSize="@dimen/text_size_data"
+                android:layout_marginTop="@dimen/margin_small"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardVN"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?attr/selectableItemBackground"
+        android:layout_margin="3dp"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:textSize="@dimen/text_size_card_title"
+                android:layout_marginBottom="@dimen/margin_small"
+                android:layout_gravity="center"
+                android:text="Lịch sử Việt Nam"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:layout_gravity="center"
+                android:src="@drawable/ic_vietnam"
+                android:layout_width="@dimen/image_card_size"
+                android:layout_height="@dimen/image_card_size" />
+            <TextView
+                android:text="(1919-2000)"
+                android:textSize="@dimen/text_size_data"
+                android:layout_marginTop="@dimen/margin_small"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

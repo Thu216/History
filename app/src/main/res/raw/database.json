@@ -1,0 +1,521 @@
+[
+  {
+    "parts": "TG",
+    "chapters": "Bối cảnh quốc tế từ sau chiến tranh thế giới thứ hai",
+    "posts": "Trật tự thế giới sau chiến tranh",
+    "questions": [
+      {
+        "ques": "Những nước nào tham gia Hội nghị Ianta?",
+        "ans_a": "Anh-Pháp-Mỹ",
+        "ans_b": "Anh-Mỹ-Liẽn Xô",
+        "ans_c": "Anh-Pháp-Đức",
+        "ans_d": "Mỹ-Liên Xô-Trung Quốc",
+        "ans_true": 2
+      },
+      {
+        "ques": "Nguyên thủ của các nước tham gia Hội nghị Ianta là những ai?",
+        "ans_a": "Rudơven, Clêmăngxô, Sơcsin",
+        "ans_b": "Aixenhao, Xíttalin, Clêmăngxô",
+        "ans_c": "Aixenhao, Xíttalin, Sơcsin",
+        "ans_d": "Rudơven, Xíttalin. Sơcsin",
+        "ans_true": 4
+      },
+      {
+        "ques": "Hội đổng Bảo an Liên hợp quốc có bao nhiêu nước thành viên?",
+        "ans_a": "15",
+        "ans_b": "5",
+        "ans_c": "20",
+        "ans_d": "10",
+        "ans_true": 3
+      },
+      {
+        "ques": "Theo thoả thuận cùa Hội nghị Pốt-xđam, nước Đức tạm thời chia thành mấy khu vực quân quản?",
+        "ans_a": "2",
+        "ans_b": "3",
+        "ans_c": "4",
+        "ans_d": "5",
+        "ans_true": 3
+      },
+
+      {
+        "ques": "Trật tự thế giới mới sau Chiến tranh thế giới thứ II được hình thành, trong thời gian nào?",
+        "ans_a": "Từ ngày 04 đến 12/02/1945",
+        "ans_b": "Từ năm 1945-1947",
+        "ans_c": "Từ năm 1945-1946",
+        "ans_d": "Từ năm 1946-1949",
+        "ans_true": 2
+      },
+      {
+        "ques": "Nhà nước Cộng hòa Dân chủ Đức được thành lập vào thời gian nào?",
+        "ans_a": "Tháng 09 năm 1949",
+        "ans_b": "Tháng 12 năm 1949",
+        "ans_c": "Tháng 10 năm 1949",
+        "ans_d": "Tháng 01 năm 1950",
+        "ans_true": 3
+      }
+    ]
+  },
+  {
+    "parts": "TG",
+    "chapters": "Liên Xô và các nước Đông Âu (1945-1991). Liên Bang Nga (1991-2000)",
+    "posts": "Liên Xô và các nước Đông Âu (1945-1991). Liên Bang Nga (1991-2000)",
+    "questions": [
+      {
+        "ques": "Kế hoạch 5 năm khôi phục kinh tế sau chiến tranh ở Liên Xô diễn ra trong khoảng thời gian nào?",
+        "ans_a": "1945-1949",
+        "ans_b": "1946-1950",
+        "ans_c": "1947-1951",
+        "ans_d": "1945-1951",
+        "ans_true": 2
+      },
+      {
+        "ques": "Đâu là mặt hạn chế trong hoạt động của khối SEV?",
+        "ans_a": "Thực hiện quan hệ hợp tác, quan hệ với các nước Tư bản chủ nghĩa",
+        "ans_b": "Phối hợp giữa các nước thành viên kéo dài sự phát triên kinh tế",
+        "ans_c": "Ít giúp nhau ứmg dụng khoa học-kỹ thuật trong sản xuất",
+        "ans_d": "Khép kín cửa, không hòa nhập với nền kinh tế thế giới",
+        "ans_true": 4
+      },
+      {
+        "ques": "Trước ảnh hưởng của cuộc khủng hoảng chung trên toàn thế giới trong những năm 70 của thế kỷ XX, Liên Xô đã làm gì?",
+        "ans_a": "Tiến hành cải cách kinh tế, chính trị, xã hội cho phù hợp",
+        "ans_b": "Kịp thời thay đổi để thích ứng với tình hình thế giới",
+        "ans_c": "Không tiến hành những cải cách cần thiết về kinh tế và xã hội",
+        "ans_d": "Có sửa đổi nhưng chưa triệt để",
+        "ans_true": 3
+      },
+      {
+        "ques": "Sau khi Liên Xô sụp đổ, tình hình Liên bang Nga như thế nào?",
+        "ans_a": "Trở thành quốc gia độc lập như các nước cộng hòa khác",
+        "ans_b": "Trở thành quốc gia kế tục Liên Xô",
+        "ans_c": "Trở thành quốc gia nắm mọi quyền hành ở Liên Xô",
+        "ans_d": "Trở thành quốc gia Liên bang Xô viết",
+        "ans_true": 2
+      }
+    ]
+  },
+  {
+    "parts": "TG",
+    "chapters": "Các nước Á, Phi, và Mỹ La Tinh (1945-2000)",
+    "posts": "Các nước Đông Bắc Á",
+    "questions": [
+      {
+        "ques": "Trong số các nước sau, nước nào không thuộc khu vực Đông Bắc Á?",
+        "ans_a": "Trung Quốc, Nhật Bản",
+        "ans_b": "Hàn Quốc, Đài Loan",
+        "ans_c": "Cộng hòa dân chủ nhân dân Triều Tiên, Nhật Bản",
+        "ans_d": "Ápganixtan, Nêpan",
+        "ans_true": 2
+      },
+      {
+        "ques": "Từ sau Chiến tranh thế giới thứ II đến trước năm 1975, nhũng quốc gia nào nằm trong tình trạng bị chìa cắt lãnh thổ?",
+        "ans_a": "Trung Quốc, Việt Nam, Thái Lan",
+        "ans_b": "Campuchia, Trung Quốc, Thái Lan",
+        "ans_c": "Trung Quốc, Việt Nam, Triều Tiên",
+        "ans_d": "Triều Tiên, Campuchia, Thái Lan",
+        "ans_true": 3
+      },
+      {
+        "ques": "Sau Chiến tranh thế giới thứ hai, yếu tố nào là cơ bản nhất giúp cách mạng Trung Quốc phát triển so với trước?",
+        "ans_a": "Sự giúp đỡ của Liên Xô",
+        "ans_b": "Lực lượng cách mạng lớn mạnh nhanh chóng",
+        "ans_c": "Ảnh hưởng của phong trào cách mạng thế giới",
+        "ans_d": "Vùng giải phóng được mở rộng",
+        "ans_true": 2
+      },
+      {
+        "ques": "Đường lối  Ba ngọn cờ hồng  do ai đề xướng?",
+        "ans_a": "Mao Trạch Đông",
+        "ans_b": "Lưu Thiếu Kỳ",
+        "ans_c": "Lâm Bưu",
+        "ans_d": "Chu Ân Lai",
+        "ans_true": 1
+      },
+      {
+        "ques": "Thực hiện đường lối  Ba ngọn cờ hồng  , Trung Quốc đạt được những gì?",
+        "ans_a": "Nền kinh tế Trung Quốc có một bước phát triển nhảy vọt",
+        "ans_b": "Đời sống nhân dân Trung Quốc được cải thiện",
+        "ans_c": "Kinh tế phát triển nhưng đời sống nhân dân Trung Quốc khó khăn",
+        "ans_d": "Nền kinh tế hỗn loạn, sản xuất giảm sút, đời sống nhân dân điêu đứng",
+        "ans_true": 4
+      },
+      {
+        "ques": "Cuộc  Đại cách mạng vô sản  ở Trung Quốc diễn ra vào những năm",
+        "ans_a": "1966-1969",
+        "ans_b": "1966-1972",
+        "ans_c": "1967-1969",
+        "ans_d": "1968-1976",
+        "ans_true": 4
+      }
+    ]
+  },
+  {
+    "parts": "TG",
+    "chapters": "Các nước Á, Phi, và Mỹ La Tinh (1945-2000)",
+    "posts": "Các nước Đông Nam Á",
+    "questions": [
+      {
+        "ques": "Trước Chiến tranh thế Giới thứ II, Inđônêxia là thuộc địa của nước nào?",
+        "ans_a": "Anh",
+        "ans_b": "Mỹ",
+        "ans_c": "Hà Lan",
+        "ans_d": "Pháp",
+        "ans_true": 3
+      },
+
+      {
+        "ques": "Ấn Độ trở thành một quốc gia độc lập khi nào?",
+        "ans_a": "Ngày 26/01/1950",
+        "ans_b": "Ngày 16/01/1950",
+        "ans_c": "Ngày 15/08/1947",
+        "ans_d": "Ngày 18/05/1947",
+        "ans_true": 1
+      },
+      {
+        "ques": "Ngày 22/03/1955 ghi dấu ấn vào lịch sử Lào bằng sự kiện nổi bật nào?",
+        "ans_a": "Quân giải phóng Lào được thành lập",
+        "ans_b": "Đại hội toàn quốc kháng chiến Lào triệu tập",
+        "ans_c": "Mỹ thông qua chính sách  viện trợ  kinh tế đối với Lào",
+        "ans_d": "Đảng Nhân dân Cách mạng Lào thành lập",
+        "ans_true": 4
+      },
+      {
+        "ques": "Năm 1964 Mỹ chính thức thực hiện loại hình chiến tranh gì ở Lào?",
+        "ans_a": "Chiến tranh đơn phương",
+        "ans_b": "Chiến tranh đặc biệt tăng cường",
+        "ans_c": "Chiến tranh cục bộ",
+        "ans_d": "Đông Dương hoá Chiến tranh",
+        "ans_true": 2
+      },
+      {
+        "ques": "Ấn Độ tuyên bố độc lập vào thời gian nào?",
+        "ans_a": "Ngày 25/12/1950",
+        "ans_b": "Ngày 26/01/1950",
+        "ans_c": "Ngày 23/02/1950",
+        "ans_d": "Ngày 26/01/1951",
+        "ans_true": 2
+      }
+    ]
+  },
+  {
+    "parts": "TG",
+    "chapters": "Các nước Á, Phi, và Mỹ La Tinh (1945-2000)",
+    "posts": "Các nước Châu Phi và Mỹ La-tinh",
+    "questions": [
+      {
+        "ques": "Phong trào cách mạng châu Phi từ sau Chiến tranh thế giới thứ II được bắt đầu từ khu vực nào?",
+        "ans_a": "Khu vực Nam Phi",
+        "ans_b": "Khu vực Tây Phi",
+        "ans_c": "Khu vực Đông Phi",
+        "ans_d": "Khu vực Bắc Phi",
+        "ans_true": 4
+      },
+      {
+        "ques": " Phong trào đấu tranh của nhân dân các nước Mỹ La-tinh diễn ra dưới hình thức nào?",
+        "ans_a": "Bãi công của công nhân",
+        "ans_b": "Đấu tranh chính trị",
+        "ans_c": "Đấu tranh vũ trang",
+        "ans_d": "Cả ba hình thức trên",
+        "ans_true": 4
+      },
+      {
+        "ques": "Sự kiện lịch sử nào mở đầu cho cách mạng Cuba?",
+        "ans_a": "Cuộc đổ bộ của tàu  Gran-ma  lên đất Cuba (1956)",
+        "ans_b": "Cuộc tấn công vào trại lính Môn-Ca-đa (26/07/1953)",
+        "ans_c": "Nghĩa quân Cuba mở cuộc tấn công (1958)",
+        "ans_d": "Nghĩa quân Cuba chiếm lĩnh thủ đô La-ha-ba-na (01/01/1959)",
+        "ans_true": 2
+      },
+      {
+        "ques": "Nước được mệnh danh là  Lá cờ đầu trong phong trào giải phóng dân tộc Mỹ La-tinh  ?",
+        "ans_a": "Argentina",
+        "ans_b": "Braxin",
+        "ans_c": "Cuba",
+        "ans_d": "Mê-hi-cô",
+        "ans_true": 3
+      }
+    ]
+  },
+  {
+    "parts": "VN",
+    "chapters": "Việt Nam từ năm 1919 đến năm 1930",
+    "posts": "Phong trào dân tộc dân chủ ở Việt Nam từ năm 1919 đến năm 1925",
+    "questions": [
+      {
+        "ques": "Pháp đầu tư vốn vào ngành nào nhiều nhất trong quá trình khai thác thuộc địa lần thứ hai?",
+        "ans_a": "Công nghiệp",
+        "ans_b": "Nông nghiệp",
+        "ans_c": "Giao thông vận tải",
+        "ans_d": "Thương mại",
+        "ans_true": 2
+      },
+      {
+        "ques": "Chương trình khai thác thuộc địa lần thứ hai của thực dân Pháp bắt đầu vào năm nào?",
+        "ans_a": "1914",
+        "ans_b": "1918",
+        "ans_c": "1919",
+        "ans_d": "1920",
+        "ans_true": 3
+      },
+      {
+        "ques": "Điểm mới trong chương trình khai thác thuộc địa lần thứ hai của Pháp là gì?",
+        "ans_a": "Vừa khai thác vừa chế biến",
+        "ans_b": "Đầu tư phát triển công nghiệp nhẹ",
+        "ans_c": "Đầu tư phát triển công nghiệp nặng",
+        "ans_d": "Tăng cường đầu tư thu lãi cao",
+        "ans_true": 4
+      },
+      {
+        "ques": "Ba tư tưởng sau đây được trình bày trong tác phẩm nào của Nguyễn Ái Quốc? ",
+        "ans_a": "Tạp chí Thư tín Quốc tế",
+        "ans_b": "  Bản án chế độ thực dân Pháp  ",
+        "ans_c": "  Đường Kách mệnh  ",
+        "ans_d": "Báo  Người cùng khổ  ",
+        "ans_true": 3
+      }
+    ]
+  },
+  {
+    "parts": "VN",
+    "chapters": "Việt Nam từ năm 1919 đến năm 1930",
+    "posts": "Phong trào dân tộc dân chủ ở Việt Nam từ năm 1925 đến năm 1930",
+    "questions": [
+      {
+        "ques": "Hội Việt Nam Cách mạng Thanh niên được thành lập vào thời điểm nào?",
+        "ans_a": "02/1925",
+        "ans_b": "06/1925",
+        "ans_c": "08/1925",
+        "ans_d": "06/1926",
+        "ans_true": 2
+      },
+      {
+        "ques": "Ý nghĩa lớn nhất về sự ra đời của Đảng Cộng sản Việt Nam là?",
+        "ans_a": "Sự kết hợp tất yếu của quá trình đấu tranh dân tộc và giai cấp ở Việt Nam",
+        "ans_b": "Mở ra một bước ngoặt lịch sử vô cùng quan trọng trong lịch sử Việt Nam",
+        "ans_c": "Chấm dứt thời kì khủng hoảng đường lối của cách mạng Việt Nam",
+        "ans_d": "Là bước chuẩn bị đầu tiên cho thắng lợi của cách mạng Việt Nam",
+        "ans_true": 3
+      },
+      {
+        "ques": "Hội nghị thành lập Đảng 03/02/1930 đã thông qua:",
+        "ans_a": "Chính cương vắn tắt do Nguyễn Ái Quốc soạn thảo",
+        "ans_b": "Sách lược vắn tắt và Điều lệ vắn tắt do Nguyễn Ái Quốc dự thảo",
+        "ans_c": "Luận cương chính trị do Trần Phú soạn thảo",
+        "ans_d": "Chính cương, Sách lược và Điều lệ vắn tắt do Nguyễn Ái Quốc khởi thảo",
+        "ans_true": 4
+      },
+      {
+        "ques": "Tư tưởng cốt lõi của Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam do Nguyễn Ái Quốc soạn thảo là gì?",
+        "ans_a": "Độc lập dân tộc và tự do",
+        "ans_b": "Độc lập dân tộc và chủ nghĩa xã hội",
+        "ans_c": "Độc lập dân tộc và dân chủ",
+        "ans_d": "Độc lập dân tộc và mọi người sống sung sướng tự do",
+        "ans_true": 1
+      },
+      {
+        "ques": "Đảng Cộng sản Việt Nam ra đời ngày 03/02/1930 là kết quả tất yếu của:",
+        "ans_a": "Phong trào dân tộc dân chủ trong những năm 1919-1926",
+        "ans_b": "Cuộc đấu tranh dân tộc và giai cấp ở Việt Nam trong thời đại mới",
+        "ans_c": "Phong trào công nhân trong những năm 1925-1927",
+        "ans_d": "Phong trào công nhân trong những năm 1919-1925",
+        "ans_true": 2
+      },
+      {
+        "ques": "Đánh dấu một bước ngoặt vĩ đại trong lịch sử của giai cấp công nhân và của cách mạng Việt Nam, đó là ý nghĩa lịch sử của sự kiện nào?",
+        "ans_a": "Thành lập Đông Dương cộng sản Đảng",
+        "ans_b": "Thành lập An Nam cộng sản Đảng",
+        "ans_c": "Thành lập Đông Dương cộng sản Liên đoàn",
+        "ans_d": "Thành lập Đảng Cộng sản Việt Nam",
+        "ans_true": 4
+      }
+    ]
+  },
+  {
+    "parts": "VN",
+    "chapters": "Việt Nam từ năm 1930 đến năm 1945",
+    "posts": "Phong trào cách mạng Việt Nam 1930-1945",
+    "questions": [
+      {
+        "ques": "Mâu thuẫn cơ bản trong xã Hội Việt Nam trong thời kì khủng hoảng kinh tế (1929-1933)?",
+        "ans_a": "Vô sản với tư sản",
+        "ans_b": "Vô sản với tư sản, nông dân với địa chủ phong kiến",
+        "ans_c": "Nhân dân Việt Nam với thực dân Pháp, vô sản với tư sản",
+        "ans_d": "Dân tộc Việt Nam với thực dân Pháp, nông dân với địa chủ phong kiến",
+        "ans_true": 4
+      },
+      {
+        "ques": "Chính quyền Xô viết Nghệ-Tĩnh tồn tại trong khoảng thời gian bao lâu?",
+        "ans_a": "Từ 2 đến 3 tháng",
+        "ans_b": "Từ 3 đến 4 tháng",
+        "ans_c": "Từ 4 đến 5 tháng",
+        "ans_d": "Từ 5 đến 6 tháng",
+        "ans_true": 3
+      },
+      {
+        "ques": "Cách mạng Việt Nam bước vào thời kì vô cùng khó khăn. Các cơ sở của Đảng lần lượt bị phá vỡ. Đó là đặc điểm của lực lượng cách mạng Việt Nam giai đoạn:",
+        "ans_a": "1930-1931",
+        "ans_b": "1931-1932",
+        "ans_c": "1933-1934",
+        "ans_d": "1934-1935",
+        "ans_true": 2
+      },
+      {
+        "ques": "Thời kì cách mạng từ 1930 đến 1935 là thời kì:",
+        "ans_a": "Đảng ta ra hoạt động công khai",
+        "ans_b": "Đảng ta hoạt động mạnh mẽ",
+        "ans_c": "Đảng ta hoạt động nửa công khai, nửa bí mật",
+        "ans_d": "Đảng ta hoạt động bí mật",
+        "ans_true": 4
+      },
+      {
+        "ques": "Lãnh tụ nào của Đảng Cộng sản Việt Nam đã hi sinh trong nhà tù đế quốc trong thời kì 1930-1935?",
+        "ans_a": "Trần Phú",
+        "ans_b": "Nguyễn Đức Cảnh",
+        "ans_c": "Nguyễn Phong Sắc",
+        "ans_d": "Ngô Gia Tự",
+        "ans_true": 1
+      },
+      {
+        "ques": "Trong thời kì cách mạng 1930-1931, lãnh tụ Nguyễn Ái Quốc bị giam trong nhà tù nào?",
+        "ans_a": "Hỏa Lò (Hà Nội)",
+        "ans_b": "Hương Cảng (Trung Quốc)",
+        "ans_c": "Côn Sơn",
+        "ans_d": "Côn Đảo",
+        "ans_true": 2
+      }
+    ]
+  },
+  {
+    "parts": "VN",
+    "chapters": "Việt Nam từ năm 1930 đến năm 1945",
+    "posts": "Phong trào dân chủ 1936-1939",
+    "questions": [
+      {
+        "ques": "Đại hội VII Quốc tế cộng sản đã xác định nhiệm vụ trước mặt của cách mạng thế giới là gì?",
+        "ans_a": "Chống chủ nghĩa đế quốc",
+        "ans_b": "Chống chủ nghĩa thực dân",
+        "ans_c": "Chống chủ nghĩa phát xít",
+        "ans_d": "Chống chiến tranh",
+        "ans_true": 3
+      },
+      {
+        "ques": "Đảng ta chuyển hướng chỉ đạo sách lược trong thời kì 1936-1939 dựa trên cơ sở nào?",
+        "ans_a": "Đường lối nghị quyết của Quốc tế Cộng sản",
+        "ans_b": "Tình hình thực tiễn của Việt Nam",
+        "ans_c": "Tình hình thế giới và trong nước có sự thay đổi",
+        "ans_d": "Đảng Cộng sản Đông Dương phục hồi và hoạt động mạnh",
+        "ans_true": 1
+      },
+      {
+        "ques": "Khẩu hiệu đấu tranh của thời kì cách mạng 1936-1939 là:",
+        "ans_a": "  Đánh đổ đế quốc Pháp-Đông Dương hoàn toàn độc lập  ",
+        "ans_b": "  Tịch thu ruộng đất của địa chủ chia cho dân cày  ",
+        "ans_c": "  Độc lập dân tộc  ,  Người cày có ruộng  ",
+        "ans_d": "  Chống phát xít chống chiến tranh, đòi tự do dân chủ, cơm áo hòa bình  ",
+        "ans_true": 4
+      },
+      {
+        "ques": "Tháng 08/1936, Đảng chủ trương phát động phong trào:",
+        "ans_a": "Đông Dương Đại hội",
+        "ans_b": "Phong trào đòi dân sinh dân chủ",
+        "ans_c": "Vận động người của Đảng vào Viện dân biểu",
+        "ans_d": "Mít tinh diễn thuyết thu thập  dân nguyện  ",
+        "ans_true": 1
+      },
+      {
+        "ques": "Vì sao cao trào dân chủ 1936-1939 được xem là cuộc tập dượt lần thứ hai chuẩn bị cho thắng lợi 1945?",
+        "ans_a": "Uy tín và ảnh hưởng của Đảng được mở rộng, trình độ của Đảng viên được nâng cao",
+        "ans_b": "Tư tưởng và chủ trương của Đảng được phô biên rộng rãi",
+        "ans_c": "Tập dượt cho quần chúng đấu tranh chính trị, thành lập một đội quân chính trị rộng lớn tập hợp xung quanh Đảng",
+        "ans_d": "Tất cả các vấn đề trên",
+        "ans_true": 4
+      }
+    ]
+  },
+  {
+    "parts": "VN",
+    "chapters": "Việt Nam từ năm 1930 đến năm 1945",
+    "posts": "Phong trào giải phóng dân tộc 1939-1945 và cách mạng thánh Tám 1945.",
+    "questions": [
+      {
+        "ques": "Chiến tranh thế giới thứ II bùng nổ đã có tác động như thế nào đến tình hình Việt Nam?",
+        "ans_a": "Các thế lực phản động trong nước đẩy mạnh chính sách khủng bố, dàn áp các phong trào đấu tranh dân chủ dân sình",
+        "ans_b": "Việt Nam bị lôi kéo vào cuộc chiến tranh phục vụ lợi ích cho thực dân Pháp",
+        "ans_c": "Chính quyền thuộc địa đẩy mạnh chính sách bóc lột, vơ vét sức người, sức của",
+        "ans_d": "Tất cả các ỷ trên",
+        "ans_true": 4
+      },
+      {
+        "ques": "Các đại biểu đều nhất trí tán thành quyết định Tổng khởi nghĩa, thông qua 10 sắc lệnh của Việt Minh, lập ủy ban dân tộc giải phóng Việt Nam (tức Chính phủ lâm thời) do Chủ tịch Hồ Chí Minh đứng đầu, đó là quyết định của:",
+        "ans_a": "Hội nghị toàn quốc của Đảng họp ở Tân Trào (15/08/1945)",
+        "ans_b": "Đại hội Quốc dân ở Tân Trào (16/08/1945)",
+        "ans_c": "Đại hội Đảng lần thứ I ở Ma Cao (Trung Quốc) năm 1935",
+        "ans_d": "Hội nghị Quân sự Bắc Kỳ (04/1945)",
+        "ans_true": 1
+      },
+      {
+        "ques": "  Giờ quyết định cho vận mệnh dân tộc ta đã đèn, toàn quốc đồng bào hay đứng dậy đem sức ta mà tự giải phóng cho ta...  . Đó là lời kêu gọi của:",
+        "ans_a": "Hội nghị toàn quốc của Đáng họp ở Tân Trào (15/08/1945)",
+        "ans_b": "Quân lệnh sổ 1 kêu gọi toàn quốc nổi dậy khởi nghĩa",
+        "ans_c": "Đại hội quốc dân ở Tân Trào (16/08/1945)",
+        "ans_d": "Thư Hồ Chí Minh gửi đồng bào cả nước kêu gọi nổi dậy tổng nghĩa giành chính quyền",
+        "ans_true": 2
+      },
+      {
+        "ques": "  Đồng bào rầm rập kéo tới Quảng trường Nhà hát lớn dự mít tinh do Mặt trận Việt Minh tổ chức. Đại biểu Việt Minh đọc tuyên ngôn, chương trình của Việt Minh và kêu gọi nhân dân giành chính quyền. Bài hát  Tiến quân ca lần đầu tiên vang lên  . Đây là không khí từ cuộc mít tinh chuyển thành khởi nghĩa giành chính quyền ở:",
+        "ans_a": "Hà Nội (19/08/1945)",
+        "ans_b": "Huế (23/08/1945)",
+        "ans_c": "Sài Gòn (25/08/1945)",
+        "ans_d": "Bắc Giang, Hải Dương (18/08/1945)",
+        "ans_true": 1
+      },
+      {
+        "ques": "Bốn tỉnh giành được chính quyền ở tỉnh lị sớm nhất trong cả nước là:",
+        "ans_a": "Hà Nội, Bắc Giang, Huế, Sài Gòn",
+        "ans_b": "Bắc Giang, Hải Dương, Hà Tĩnh, Quảng Nam",
+        "ans_c": "Bắc Giang, Hải Dương, Hà Nội, Huế",
+        "ans_d": "Hà Nội, Sài Gòn, Hà Tĩnh, Quảng Nam",
+        "ans_true": 2
+      }
+    ]
+  },
+  {
+    "parts": "VN",
+    "chapters": "Việt Nam từ năm 1945 đến năm 1954",
+    "posts": "Nước Việt Nam dân chủ cộng hòa từ sau 02/09/1945 đến trước 19/12/1946",
+    "questions": [
+      {
+        "ques": "Điền thêm từ còn thiếu trong câu nói sau của Bác Hồ:  Giặc đổi, giặc dốt là... của giặc ngoại xâm  ",
+        "ans_a": "Bạn",
+        "ans_b": "Tay sai",
+        "ans_c": "Đồng minh",
+        "ans_d": "Anh em",
+        "ans_true": 3
+      },
+      {
+        "ques": "Khi thực dân Pháp quay trở lại xâm lược nước ta mở đầu là cuộc chiến đấu của quân và dân ta ở",
+        "ans_a": "Sài Gòn-Chợ Lớn",
+        "ans_b": "Nam Bộ",
+        "ans_c": "Trung Bộ",
+        "ans_d": "Bến Tre",
+        "ans_true": 2
+      },
+      {
+        "ques": "Tạm ước 14/09/1946 ta nhân nhượng cho Pháp một số vấn đề gì?",
+        "ans_a": "Một số quyền lợi về kinh tế và văn hoá",
+        "ans_b": "Chấp nhận cho Pháp đưa 15000 quân ra Bắc",
+        "ans_c": "Một số quyền lợi về chính trị, quân sự",
+        "ans_d": "Một số quyền lợi về kinh tế, quân sự",
+        "ans_true": 1
+      },
+      {
+        "ques": "Cuộc kháng chiến toàn quốc chống thực dân Pháp bắt đầu từ nào?",
+        "ans_a": "Ngày 18/12/1946",
+        "ans_b": "Đêm 19/12/1946",
+        "ans_c": "Đem 20/12/1946",
+        "ans_d": "Ngày 22/12/1946",
+        "ans_true": 2
+      }
+    ]
+  }
+]

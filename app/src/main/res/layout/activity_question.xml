@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorBackground">
+
+    <RelativeLayout
+        android:paddingLeft="@dimen/margin"
+        android:paddingRight="@dimen/margin"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvScore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:freezesText="true"
+            android:text="Điểm hiện tại: 0"
+            android:textColor="@android:color/holo_red_light"
+            android:textSize="@dimen/text_size_title"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvQuestionCount"
+            android:layout_marginTop="8dp"
+            android:layout_below="@id/tvScore"
+            android:text="Câu 1/30"
+            android:textSize="23sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:freezesText="true"/>
+
+        <TextView
+            android:id="@+id/tvCountDown"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:textSize="48sp"
+            android:textColor="@color/colorDeepPurple"
+            android:text="03:00"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:freezesText="true"/>
+    </RelativeLayout>
+    
+    ++<RelativeLayout
+        android:paddingLeft="@dimen/margin"
+        android:paddingRight="@dimen/margin"
+        android:paddingBottom="@dimen/margin"
+        android:paddingTop="@dimen/margin_small"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tvPosts"
+            android:textSize="@dimen/text_size_data"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:text="Bài 1: Trật tự thế giới sau chiến tranh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:freezesText="true"/>
+
+        <TextView
+            android:id="@+id/tvQuestion"
+            android:text="Những nước nào tham gia Hội nghị Ianta ?"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_size_data"
+            android:layout_above="@id/radioGroup"
+            android:layout_marginBottom="@dimen/margin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:freezesText="true"/>
+
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/radA"
+                android:text="Anh - Pháp - Mĩ."
+                android:textSize="@dimen/text_size_data"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:freezesText="true"/>
+
+            <RadioButton
+                android:layout_marginTop="@dimen/margin_small"
+                android:id="@+id/radB"
+                android:text="Anh - Mĩ - Liẽn Xô."
+                android:textSize="@dimen/text_size_data"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:freezesText="true"/>
+
+            <RadioButton
+                android:layout_marginTop="@dimen/margin_small"
+                android:id="@+id/radC"
+                android:text="Anh - Pháp - Đức."
+                android:textSize="@dimen/text_size_data"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:freezesText="true"/>
+
+            <RadioButton
+                android:layout_marginTop="@dimen/margin_small"
+                android:id="@+id/radD"
+                android:text="Mĩ - Liên Xô - Trung Quốc."
+                android:textSize="@dimen/text_size_data"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:freezesText="true"/>
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btnConfirm"
+            android:layout_below="@id/radioGroup"
+            android:layout_marginTop="@dimen/margin"
+            android:layout_centerHorizontal="true"
+            android:text="Đồng ý"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:textColor="@color/colorWhite"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:textSize="@dimen/text_size_title"
+            android:fontFamily="sans-serif-condensed"
+            android:drawableEnd="@drawable/ic_check"
+            android:drawableRight="@drawable/ic_check"
+            android:background="@drawable/btn_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:freezesText="true"/>
+        
+    </RelativeLayout>
+
+</LinearLayout>
